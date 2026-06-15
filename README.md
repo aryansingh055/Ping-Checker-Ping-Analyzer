@@ -1,21 +1,27 @@
-# Ping Analyzer
+# 🛰️ Ping Analyzer
 
 A Bash shell scripting tool that checks whether a website or IP address is reachable using the Linux `ping` command.
 
-## Features
+---
 
-* Check website reachability
-* Check IP address reachability
-* Simple and user-friendly interface
-* Fast network connectivity verification
+## ✨ Features
 
-## Technologies Used
+* 🌐 Check website reachability
+* 📡 Check IP address reachability
+* 🖥️ Simple and user-friendly interface
+* ⚡ Fast network connectivity verification
 
-* Linux
-* Bash Shell Scripting
-* Networking
+---
 
-## Project Structure
+## 🛠️ Technologies Used
+
+* 🐧 Linux
+* 📜 Bash Shell Scripting
+* 🌍 Networking
+
+---
+
+## 📂 Project Structure
 
 ```text
 Ping-Analyzer/
@@ -25,33 +31,37 @@ Ping-Analyzer/
 └── Screenshots/
 ```
 
-## Usage
+---
 
-Clone the repository:
+## 🚀 Usage
+
+### Clone the repository
 
 ```bash
 git clone https://github.com/aryansingh055/Ping-Checker-Ping-Analyzer.git
 ```
 
-Move to the project directory:
+### Move to the project directory
 
 ```bash
 cd Ping-Checker-Ping-Analyzer
 ```
 
-Give execution permission:
+### Give execution permission
 
 ```bash
 chmod +x ping-analyzer.sh
 ```
 
-Run the script:
+### Run the script
 
 ```bash
 ./ping-analyzer.sh
 ```
 
-## Example Output
+---
+
+## 📸 Example Output
 
 ```text
 ==============================
@@ -63,18 +73,25 @@ Enter Website/IP: google.com
 ✅ google.com is Reachable
 ```
 
-## Learning Objectives
+---
+
+## 🎯 Learning Objectives
 
 This project demonstrates:
 
-* Variables
-* User Input
-* Conditional Statements (if-else)
-* Linux Commands
-* Basic Networking Concepts
-* Bash Scripting
+* 📦 Variables
+* ⌨️ User Input
+* 🔀 Conditional Statements (if-else)
+* 🐧 Linux Commands
+* 🌐 Basic Networking Concepts
+* 📜 Bash Scripting
 
-## Author
+---
 
-Aryan Singh
-BCA Student | Linux & Cloud Computing Learner
+## 👨‍💻 Author
+
+**Aryan Singh**
+🎓 BCA Student
+☁️ Linux & Cloud Computing Learner
+
+⭐ If you found this project useful, consider giving it a star on GitHub!

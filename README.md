@@ -100,8 +100,6 @@ You can view the logs anytime using:
 cat ping_log.txt
 ```
 
-```
-
 ---
 
 ## 🎯 Learning Objectives
@@ -120,7 +118,6 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Aryan Singh**
-🎓 BCA Student
 ☁️ Linux & Cloud Computing Learner
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!

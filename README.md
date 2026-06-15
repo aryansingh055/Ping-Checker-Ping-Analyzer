@@ -79,7 +79,9 @@ Time   : 15-06-2026 21:15:30
 Log saved in ping_log.txt
 =========================================
 ```
+## 📸 Screenshot
 
+![Ping Analyzer Output](Screenshots/output.png)
 ---
 
 ## 📄 Log File
